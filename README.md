@@ -1,5 +1,5 @@
 ### Hello World 👋
-![alt text](https://rhogan.ie/githubDumpOpt.png)
+<!-- ![alt text](https://rhogan.ie/githubDumpOpt.png) -->
 
 <!--
 **rayhogan/rayhogan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
